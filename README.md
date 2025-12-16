@@ -98,3 +98,11 @@ The project is composed of the following main modules:
 1. Open the project in **BlueJ**.
 2. Ensure the `shapes` package is available.
 3. Compile the classes in the following order:
+
+## Authors
+
+- **Camilo Aguirre**  
+- **Mateo Sánchez**
+
+Students of Systems Engineering  
+Escuela Colombiana de Ingeniería Julio Garavito
